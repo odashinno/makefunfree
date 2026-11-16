@@ -1,0 +1,7 @@
+# Secrets — never commit a real key.
+.env
+# Runtime
+node_modules/
+*.log
+# OS
+.DS_Store
